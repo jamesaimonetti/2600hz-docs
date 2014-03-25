@@ -1,6 +1,6 @@
 /*
-Title: Activate
-Section: News
+Title: Admin GUI
+Section: Mobile
 */
 
 ## This is a Sub Page
